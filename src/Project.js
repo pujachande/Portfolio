@@ -12,11 +12,11 @@ export default function Projects() {
         {/* Project 1 */}
         <div className="row">
           <a
-            href="https://www.geeksforgeeks.org/library-management-system/"
+            href="https://github.com/pujachande/Dictionary-Web-App"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="img/lib1.jpg" alt="Library Management System" />
+            <p>Project Link</p>
           </a>
           <div className="main-row"></div>
           <h3>Word Dictionary</h3>
@@ -25,11 +25,11 @@ export default function Projects() {
         {/* Project 2 */}
         <div className="row">
           <a
-            href="https://www.geeksforgeeks.org/forecast-weather-project-check-today-weather-for-any-location/"
+            href="https://github.com/pujachande/Weather-App"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="img/weather.jpg" alt="Weather Forecasting App" />
+            <p>Project Link</p>
           </a>
           <div className="main-row"></div>
           <h3>Weather Forecasting App</h3>
